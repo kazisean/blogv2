@@ -139,12 +139,12 @@ params:
         google:
              SiteVerificationTag: "h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM"
 
-    assets:
-    favicon: "/favicon/favicon.ico"
-    favicon16x16: "/favicon/favicon-16x16.png"
-    favicon32x32: "/favicon/favicon-32x32.png"
-    apple_touch_icon: "/favicon/apple-touch-icon.png"
-    # safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
+    # assets:
+    # favicon: "https://raw.githubusercontent.com/kazisean/blogv2/main/static/favicon/favicon.ico"
+    # favicon16x16: "https://raw.githubusercontent.com/kazisean/blogv2/main/static/favicon/favicon-16x16.png"
+    # favicon32x32: "https://raw.githubusercontent.com/kazisean/blogv2/main/static/favicon/favicon-32x32.png"
+    # apple_touch_icon: "https://raw.githubusercontent.com/kazisean/blogv2/main/static/favicon/apple-touch-icon.png"
+    # # safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
 
     cover:
          hidden: true # hide everywhere but not in structured data
