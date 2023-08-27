@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blog.iamkazi.xyz/sitemap.xml

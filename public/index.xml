@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kazi</title>
+    <link>https://blog.iamkazi.xyz/</link>
+    <description>Recent content on Kazi</description>
+    <image>
+      <title>Kazi</title>
+      <url>https://blog.iamkazi.xyz/kaziBanner.png</url>
+      <link>https://blog.iamkazi.xyz/kaziBanner.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://blog.iamkazi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/about/</guid>
+      <description>Source: Gravity 2013 coming soon!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/artificial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/bookshelf/</guid>
+      <description>coming soon!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/essays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/essays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/links/</guid>
+      <description> Reading List My 40-liter backpack travel guide Machine Learning Karpathy’s Machine Learning Course Machine Learning Interview Book The Novice&#39;s LLM Training Guide Internship ~ Jobs Summer 2024 Tech Internships YC Hiring List New York Based job List Blind&#39;s Job List Crunchbase Welcome to The Coding Interview. You Suck Calculus I The Best Calculus Guide Paul&#39;s Calculus Notes Data structure Data Structure With Abdul Bari NeetCode Cool People Paul Graham Sam Altman Patrick Collison Vitalik Buterin Naval Ravikant Alexey Guzey Marc Andreessen Melting Asphalt Andrej Karpathy Garry Tan Amjad Masad Sharif Shameem Alexandr Wang Stephen Wolfram Eliezer Yudkowsky </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
