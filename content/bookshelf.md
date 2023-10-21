@@ -182,8 +182,6 @@ coming soon!
 <br>
 📕 [The Fall]()
 <br>
-📕 [Hateship, Friendship, Courtship, Loveship, Marriage]()
-<br>
 📕 [Solution Selling: Creating Buyers in Difficult Selling Markets]()
 <br>
 📕 [Endurance: Shackleton's Incredible Voyage]()
@@ -196,7 +194,7 @@ coming soon!
 <br>
 📕 [The Republic]()
 <br>
-📕 [Mind of Napoleon:]()
+📕 [Mind of Napoleon]()
 <br>
 📕 [Superintelligence: Paths, Dangers, Strategies ]()
 <br>
@@ -211,8 +209,6 @@ coming soon!
 📗 [Zero to One]()
 <br>
 📕 [Probability Theory]()
-<br>
-📕 [Seeking Wisdom]()
 <br>
 📕 [Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance]()
 <br>

@@ -29,4 +29,4 @@ hideMeta: true
 </figure>
 
 
-This blog is using [HUGO](https://gohugo.io/) which is written in [GO](https://go.dev/) making it one of the fastest static website generator. For the theme, it is using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) with a few customization. The source code of the entire blog is hosted on my [GitHub](https://github.com/kazisean/blogv2) and is currently deployed using [Vercel](https://vercel.com/). I am currently using [Notion](https://www.notion.so/) as a CMS to power most of my blog post. This is achieved by running a few bash scripts in my home server fetching notion API to convert my notion blog pages to Markdown live, making this blog run seamlessly.
+This blog is using [HUGO](https://gohugo.io/) which is written in [GO](https://go.dev/) making it one of the fastest static website generator. For the theme, it is using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) with a few customization. The source code of the entire blog is hosted on my [GitHub](https://github.com/kazisean/blogv2) and is currently deployed using [Vercel](https://vercel.com/). 

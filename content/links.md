@@ -12,10 +12,10 @@ disableShare: true
 
 <!-- <a href="website" target="_blank">Name</a>  </br> -->
 
-## Reading List
+<!-- ## Reading List
 <ul>
 	<li><a href="https://vitalik.ca/general/2022/06/20/backpack.html" target="_blank">My 40-liter backpack travel guide</a></li>
-</ul>
+</ul> -->
 
 
 ## Machine Learning
